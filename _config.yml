@@ -73,7 +73,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Some webs
-Website: [
+website: [
     {
         title: "Jianqing Fan",
         href: "http://orfe.princeton.edu/~jqfan/publications-general.html"
