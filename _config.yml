@@ -43,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: fibears' blog
+duoshuo_username: phil
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -72,25 +72,28 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
+# Some webs
 friends: [
     {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "Jianqing Fan",
+        href: "http://orfe.princeton.edu/~jqfan/publications-general.html"
     },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "Tibshirani",
+        href: "http://statweb.stanford.edu/~tibs/index.html"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "XK",
+        href: "http://xccds1977.blogspot.jp"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "Friedman",
+        href: "https://statweb.stanford.edu/~jhf/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+        title: "Liu Sizhe",
+        href: "http://www.bjt.name"
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "Fang",
+        href: "http://kuangnanfang.com"
+    },{
+        title: "Rokia"
+        href: "http://rokia.org"
     }
 ]
