@@ -3,7 +3,7 @@ title: Fibears' Blog
 SEOTitle: 五只熊的博客 | Fibears' Blog
 header-img: img/home-bg.jpg
 email: fibears33@sina.com
-description: "数据与统计、篮球与健身 | Fibears | 这里是 @Fibeas 的个人博客，记录生活与学习的点滴。"
+description: "数据与统计、篮球与健身 | Fibears | 这里是 @Fibears 的个人博客，记录生活与学习的点滴。"
 keyword: "fibears, data science, Statistic, basketball"
 url: "http://fibears.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -93,7 +93,7 @@ friends: [
         title: "Fang",
         href: "http://kuangnanfang.com"
     },{
-        title: "Rokia"
+        title: "Rokia",
         href: "http://rokia.org"
     }
 ]
