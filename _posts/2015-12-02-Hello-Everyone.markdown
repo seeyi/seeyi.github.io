@@ -4,7 +4,7 @@ title:      "Hello Everyone"
 subtitle:   " \"Welcome to my blog!\""
 date:       2015-12-02
 author:     "fibears"
-header-img: "img/post-bg-Hello-everyone.jpg"
+header-img: "img/in-post/header/post-bg-Hello-everyone.jpg"
 tags:
     - 生活
 ---
