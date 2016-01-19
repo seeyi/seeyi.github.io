@@ -95,5 +95,11 @@ website: [
     },{
         title: "Rokia",
         href: "http://rokia.org"
+    },{
+        title: "Hadley",
+        href: "http://adv-r.had.co.nz"
+    },{
+        title: "yihui",
+        href: "http://yihui.name"
     }
 ]
