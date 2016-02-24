@@ -1,3 +1,3 @@
 #Fibears Blog
 
-Welcome to my blog. I‘m Fibears.
+Welcome to my blog. I am Fibears.
