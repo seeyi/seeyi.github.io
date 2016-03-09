@@ -101,5 +101,11 @@ website: [
     },{
         title: "yihui",
         href: "http://yihui.name"
+    },{
+        title: "Yaopeng",
+        href: "http://yphuang.github.io"
+    },{
+        title: "Kitty",
+        href: "http://norris-niu.top"
     }
 ]
