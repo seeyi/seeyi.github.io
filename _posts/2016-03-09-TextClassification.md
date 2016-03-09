@@ -2,7 +2,7 @@
 layout:     post
 title:      "文本分类方法综述"
 subtitle:   " \"Method Introduction!\""
-date:       2015-12-22
+date:       2016-03-09
 author:     "fibears"
 header-img: "img/in-post/header/post-bg-text.png"
 tags:
@@ -76,11 +76,16 @@ _*备注：权重计算方法和特征提取方法存在类似的问题，即缺
 
 提到分类性能评测，必然少不了混淆矩阵(Confusion Matrix):
 
-          |预测YES  | 预测NO
-----------|---------|--------       
-真实YES    |  TP     |   FN
-真实NO     | FP      |   TN
-
+$$
+\begin{array}{c|c|c}
+\hline
+ & 预测YES & 预测NO \\
+\hline
+真实YES & TP & FN \\
+真实NO & FP & TN \\
+\hline
+\end{array}
+$$
 
 - 准确率：\\(\frac{TP+TN}{TP+TN+FP+FN}\\)
 - 真阳率(TPR)：\\(\frac{TP}{TP+FN}\\)
