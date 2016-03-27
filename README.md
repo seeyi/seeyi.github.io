@@ -1,3 +1,3 @@
-#Fibears Blog
+#See's Blog
 
-Welcome to my blog. I am Fibears.
+Hello World! I am See.
