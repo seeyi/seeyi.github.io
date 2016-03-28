@@ -4,7 +4,7 @@ title:      "Git Learning"
 subtitle:   "Git code(Basic)"
 date:       2016-03-28
 author:     "see"
-header-img: "img/in-post/header/post-bg-git.jpg"
+header-img: "img/in-post/header/post-bg-notes.jpg"
 tags:
     - Git
     - Study
