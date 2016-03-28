@@ -61,7 +61,7 @@ ga_domain: seeyi.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Code, Data and Basketball。"
+sidebar-about-description: "Statistic and Basketball。"
 sidebar-avatar: /img/seeyi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
