@@ -61,10 +61,3 @@ tags:
 ## Git Tutorial - 18 - Pushing to a GitHub Repository
 1. "git remote add reponame repo的网址" 建立远程连接
 2. "git push -u reponame master" 把working copy的文件推送到github repo，记住在这之前要把本地文件用git提交保存。
-
-
-
-
-
-
-
